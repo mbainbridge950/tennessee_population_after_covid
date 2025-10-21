@@ -18,7 +18,7 @@
 
 ## PowerBI Dashboard
 
-Link:
+Link: https://app.powerbi.com/groups/me/reports/21131c88-d84a-40fd-a121-12196412c4ae/0212973c35766e73cccb?experience=power-bi
 
 
 
@@ -70,6 +70,8 @@ To answer the above questions I used the following sources to collect datasets f
    https://libguides.utk.edu/tngis/county
 3. TN Department of Health
    https://www.tn.gov/health/cedep/ncov/data.html
+
+
 
 ## Conclusion
 
