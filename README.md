@@ -18,7 +18,7 @@
 
 ## PowerBI Dashboard
 
-Link: [https://app.powerbi.com/groups/me/reports/21131c88-d84a-40fd-a121-12196412c4ae/0212973c35766e73cccb?experience=power-bi](https://app.powerbi.com/groups/me/reports/21131c88-d84a-40fd-a121-12196412c4ae/0212973c35766e73cccb?experience=power-bi)
+Link: [https://app.powerbi.com/view?r=eyJrIjoiYWIyYjEwYTYtMWViZC00YjliLWIxYTgtNjQxNTQ3ZmIxYjJlIiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9](https://app.powerbi.com/view?r=eyJrIjoiYWIyYjEwYTYtMWViZC00YjliLWIxYTgtNjQxNTQ3ZmIxYjJlIiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9)
 
 
 
